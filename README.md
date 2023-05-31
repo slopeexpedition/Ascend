@@ -7,6 +7,8 @@ Small enterprises like Laundry, Bakery, Repair Centres often struggle in establi
 
 To address this issue, we require a dedicated application that can facilitate the onboarding process and instill trust in their payment systems.
 
+## Solution
+
 Our solution targets at bringing in an XDC powered decentralized finance tool for payments, invoices, security, transparancy etc.
 Our application will provide a platform and an opportunity to onboard small enterprises onto the Crypto payments space !
 
