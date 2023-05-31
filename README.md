@@ -1,7 +1,7 @@
 # Ascend
 XDC CRYPTO POWERED SMALL ENTERPRISES ONBOARDING PLATFORM
 
-##Problem Statement
+## Problem Statement
 
 Small enterprises like Laundry, Bakery, Repair Centres often struggle in establishing trust with their customers when it comes to payments. They need a reliable and efficient application to onboard for payment trust.
 
@@ -19,7 +19,7 @@ Features
 4. Invoices - Building trust and encourage customers to engage in transactions
 5. Margins - Increase margins by paying direct and avoiding multiple third party providers
 
-###Summary
+### Summary
 
 A well-designed and tested solution built with XDC Payments and Cloud
 
